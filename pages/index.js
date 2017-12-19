@@ -1,10 +1,1 @@
-export default () => (
-    <div>Chanon Panpila</div>
-)
-
-export default () => (
-<div>
-
-ssd</div>
-
-)
+export default () => <div>5555</div>;

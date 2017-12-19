@@ -16,7 +16,7 @@ module.exports = {
         },
         sourceType: "module"
     },
-    plugins: ["react", "graphql"],
+    plugins: ["react"],
     rules: {
         "react/jsx-uses-react": "warn",
         "react/jsx-uses-vars": ["error"],
