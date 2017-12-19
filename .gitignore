@@ -3,3 +3,5 @@ node_modules/
 docs
 build
 eiei.js
+.vscode
+.next
