@@ -23,10 +23,6 @@ export default class MyDocument extends Document {
 						content="initial-scale=1.0, width=device-width"
 						key="viewport"
 					/>
-					<meta
-						name="keywords"
-						content="find lawyer, findLawyer, หาทนาย, lawyer, lawyers"
-					/>
 					<meta name="author" content="Chanon Panpila" />
 					<link
 						rel="stylesheet"
