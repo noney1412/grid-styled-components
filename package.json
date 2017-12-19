@@ -1,0 +1,8 @@
+{
+  "name": "grid-styled-components",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/noney1412/grid-styled-components.git",
+  "author": "noney1412 <nonpanpila@gmail.com>",
+  "license": "MIT"
+}
