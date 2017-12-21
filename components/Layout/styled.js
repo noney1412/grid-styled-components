@@ -1,5 +1,8 @@
 import styled from "styled-components";
 
 export const Wrapper = styled.div`
-	color: red;
+	display: grid;
+	grid-template-columns: auto auto auto;
+	background-color: #feee;
+	justify-items: center;
 `;
