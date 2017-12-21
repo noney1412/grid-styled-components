@@ -1,17 +1,14 @@
-import Header from "../Header";
-import { Wrapper } from "./styled";
+import { Wrapper, Sec1, Sec2, Sec3 } from "./styled";
 
-export default () => [
-	<div>
-		<Header />
+export default () => (
+	<div style={{ width: "90%", margin: "auto" }}>
 		<Wrapper>
-			<div>55555555</div>
-			<div>55555555</div>
-			<div>55555555</div>
-			<div>55555555</div>
-			<div>55555555</div>
-			<div>55555555</div>
-			<div>55555555</div>
+			<Sec1>profile</Sec1>
+			<Sec2>
+				<div>Nav</div>
+				<div>Main</div>
+			</Sec2>
+			<Sec3>55555555</Sec3>
 		</Wrapper>
 	</div>
-];
+);
