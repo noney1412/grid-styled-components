@@ -5,24 +5,24 @@ export const Navbar = styled.nav`
 	padding: 0.9em;
 	justify-content: space-around;
 	font-family: kanit;
-	box-sizing: border-box;
 	background-color: #fff;
 	border-bottom: solid 2px;
-	color: #ebebeb;
+	color: rgba(00, 00, 00, 0.2);
 
-	div {
+	a {
 		border: none;
-		background: orange;
-		box-shadow: 0px 0px 1px #777;
-		height: 100%;
 	}
 
-	div:active {
+	a:first-child {
+		color: rgba(00, 00, 00, 0.9);
+	}
+
+	a:hover {
 		border-bottom: 1px solid #bbb;
 		color: #060606;
 	}
 
-	div:hover {
+	a:active {
 		border-bottom: 1px solid #bbb;
 		color: #060606;
 	}

@@ -3,17 +3,9 @@ import { Navbar } from "./styled";
 
 export default () => (
 	<Navbar>
-		<Link>
-			<div>Introduction</div>
-		</Link>
-		<Link>
-			<div>Skill</div>
-		</Link>
-		<Link>
-			<div>Achievement</div>
-		</Link>
-		<Link>
-			<div>Project</div>
-		</Link>
+		<a>Introduction</a>
+		<a>Skill</a>
+		<a>Achievement</a>
+		<a>Project</a>
 	</Navbar>
 );
