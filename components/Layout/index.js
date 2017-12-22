@@ -3,7 +3,7 @@ import { Wrapper, Sec1, Sec2, Sec3 } from "./styled";
 import Navbar from "../Navbar";
 
 export default () => (
-	<div style={{ width: 1400, margin: "auto" }}>
+	<div>
 		<Wrapper>
 			<Sec1>profile</Sec1>
 			<Sec2>

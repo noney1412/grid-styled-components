@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Wrapper = styled.div`
-	margin-top: 3%;
+	margin-top: 5%;
 	display: grid;
 	grid-template-columns: 1fr 2fr 1fr;
 `;
