@@ -7,6 +7,7 @@ export default () => (
 		<Wrapper>
 			<Sec1>profile</Sec1>
 			<Sec2>
+				<div>Float Land</div>
 				<Navbar />
 			</Sec2>
 			<Sec3>55555555</Sec3>

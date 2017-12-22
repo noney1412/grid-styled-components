@@ -1,10 +1,9 @@
 import styled from "styled-components";
 
 export const Wrapper = styled.div`
-	margin-top: 5%;
+	margin-top: 3%;
 	display: grid;
 	grid-template-columns: 1fr 2fr 1fr;
-	justify-items: center;
 `;
 
 export const Sec1 = styled.section`
