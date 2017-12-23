@@ -1,5 +1,17 @@
 import DDD from "../components/Layout";
 
 export default () => (
-		<DDD />
+		<div>
+			Chanon Panpila
+			Chanon Panpila
+			Chanon Panpila
+			Chanon Panpila
+			Chanon Panpila
+			Chanon Panpila
+			Chanon Panpila
+			Chanon Panpila
+			Chanon Panpila
+			Chanon Panpila
+			Chanon Panpila
+		</div>
 );
